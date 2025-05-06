@@ -1,0 +1,12 @@
+com/example/entity/Course.class
+com/example/service/CourseServiceImpl.class
+com/example/service/StudentServiceImpl.class
+com/example/SpringBootSga2Application.class
+com/example/repository/StudentRepository.class
+com/example/entity/Student.class
+com/example/repository/JpaRepository.class
+com/example/repository/CourseRepository.class
+com/example/controller/CourseController.class
+com/example/controller/StudentController.class
+com/example/service/StudentService.class
+com/example/service/CourseService.class

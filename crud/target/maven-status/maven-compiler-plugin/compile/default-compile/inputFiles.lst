@@ -1,0 +1,12 @@
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/SpringBootSga2Application.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/controller/CourseController.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/controller/StudentController.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/entity/Course.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/entity/Student.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/repository/CourseRepository.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/repository/JpaRepository.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/repository/StudentRepository.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/service/CourseService.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/service/CourseServiceImpl.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/service/StudentService.java
+/Users/heatherhome/Desktop/BDbA SGA2/crud/src/main/java/com/example/service/StudentServiceImpl.java
