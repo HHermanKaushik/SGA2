@@ -30,7 +30,7 @@ public class Student {
         this.courses = courses;
     }
 
-    // Getters and Setters
+   
     public Long getId() {
         return id;
     }
